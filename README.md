@@ -1,4 +1,4 @@
-# Task 1: Konfiguracja oprogramowania
+# **Task 1: Konfiguracja oprogramowania**
 ## Subtask 1: Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge?
 Hej! Mam na imię Aga i zdecydowałam się na udział w challenge'u z kilku powodów:
 - zależy mi na poznaniu i przećwiczeniu Pythona w testowaniu (ponad rok szukam takiej możliwości!)
