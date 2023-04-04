@@ -1,2 +1,2 @@
-# Task 1
-## Subtask 1
+# Task 1: Konfiguracja oprogramowania
+## Subtask 1: Dlaczego zdecydowałam 
