@@ -6,3 +6,7 @@ Hej! Mam na imię Aga i zdecydowałam się na udział w challenge'u z kilku powo
 - chcę być cały czas w temacie i marzy mi się rutyna (bo wydaje mi się, że bez ćwiczeń zdobyta dotąd wiedza maleje z każdym dniem)
 - myślę nieśmiało o przebranżowieniu, stąd decyzja o challenge'owym treningu
 - poza tym lubię uczyć się nowych rzeczy
+## Subtask 3
+komentarz: Summary mam pod innymi nazwami, bo zmiany do zdalnego repozytorium wysłałam, robiąc pierwsze zadanie. Dopiero później przeczytałam treść 3. zadania i właściwą instrukcję. Mam nadzieję, że nie namieszałam i w rezultacie niczego nie popsułam.
+## Subtask 4
+wynik: 8 poprawnych na 14 :/
