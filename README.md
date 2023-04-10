@@ -17,3 +17,5 @@ wynik: 8 poprawnych na 14 :disappointed:
 ![image](https://user-images.githubusercontent.com/116113886/230984667-4071d291-e79f-48e8-a54d-a6f56d722e42.png)
 ## Subtask 2: Wyszukiwanie selektorów na stronie logowania
 **Scouts_Panel_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //*[@id="__next"]/form/div/div[1]/h5
+- 
