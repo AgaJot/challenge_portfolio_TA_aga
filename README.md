@@ -15,3 +15,5 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 1: Nowy branch
 ![image](https://user-images.githubusercontent.com/116113886/230984521-b41735f7-866e-4de8-b45a-60f1e5cbe24a.png)
 ![image](https://user-images.githubusercontent.com/116113886/230984667-4071d291-e79f-48e8-a54d-a6f56d722e42.png)
+## Subtask 2: Wyszukiwanie selektorów na stronie logowania
+**Scouts_Panel_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath
