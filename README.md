@@ -18,4 +18,13 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 2: Wyszukiwanie selektorów na stronie logowania
 **Scouts_Panel_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //*[@id="__next"]/form/div/div[1]/h5
-- 
+- //h5
+- //*[text()='Scouts Panel']
+**Login_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //*[@id="__next"]/form/div/div[1]/div[1]
+- //*[@id="login-label"] 
+- //*[contains(@id,"login")]
+**Password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //*[@id="__next"]/form/div/div[1]/div[2]
+- //input[@name="password"]
+- //*[text()='Remind password']
