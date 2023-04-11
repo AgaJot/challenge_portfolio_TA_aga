@@ -44,5 +44,4 @@ wynik: 8 poprawnych na 14 :disappointed:
 **Sign in button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //child::div/button
 - //*[contains(@class,"MuiButton")]
-- //*[tekst()="Sign in"]
 - /html/body/div/form/div/div[2]/button
