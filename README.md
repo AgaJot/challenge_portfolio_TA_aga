@@ -45,3 +45,4 @@ wynik: 8 poprawnych na 14 :disappointed:
 - //child::div/button
 - //*[contains(@class,"MuiButton")]
 - /html/body/div/form/div/div[2]/button
+- //*[text()='Sign in']
