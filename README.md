@@ -31,18 +31,18 @@ wynik: 8 poprawnych na 14 :disappointed:
 - //input[@name="password"]
 - //div[@class="MuiFormControl-root MuiTextField-root jss56 MuiFormControl-marginNormal" and position()=2]
 
-**Remind password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Remind_password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //*[@id="__next"]/form/div/div[1]/a
 - //*[contains(@class, "MuiLink")] 
 - //child::div/a
 
-**Language button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Language_button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //div[@role="button"]
 - //*[text()="English"]
 - //input[@value="en" or @value="pl"]
 
-**Sign in button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Sign_in_button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //child::div/button
 - //*[contains(@class,"MuiButton")]
 - /html/body/div/form/div/div[2]/button
-- //*[text()='Sign in']
+- //*[text()="Sign in"]
