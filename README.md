@@ -29,4 +29,20 @@ wynik: 8 poprawnych na 14 :disappointed:
 **Password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
 - //*[@id="__next"]/form/div/div[1]/div[2]
 - //input[@name="password"]
-- //*[text()='Remind password']
+- //div[@class="MuiFormControl-root MuiTextField-root jss56 MuiFormControl-marginNormal" and position()=2]
+
+**Remind password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //*[@id="__next"]/form/div/div[1]/a
+- //*[contains(@class, "MuiLink")] 
+- //child::div/a
+
+**Language button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //div[@role="button"]
+- //*[text()="English"]
+- //input[@value="en" or @value="pl"]
+
+**Sign in button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+- //child::div/button
+- //*[contains(@class,"MuiButton")]
+- //*[tekst()="Sign in"]
+- /html/body/div/form/div/div[2]/button
