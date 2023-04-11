@@ -46,3 +46,7 @@ wynik: 8 poprawnych na 14 :disappointed:
 - //*[contains(@class,"MuiButton")]
 - /html/body/div/form/div/div[2]/button
 - //*[text()="Sign in"]
+
+## Subtask 3: Dodawanie selektorów do projektu
+![image](https://user-images.githubusercontent.com/116113886/231213759-3f88a6b7-e359-4dd0-903f-9c7a42d88837.png)
+
