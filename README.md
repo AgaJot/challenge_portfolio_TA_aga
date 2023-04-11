@@ -50,3 +50,11 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 3: Dodawanie selektorów do projektu
 ![image](https://user-images.githubusercontent.com/116113886/231213759-3f88a6b7-e359-4dd0-903f-9c7a42d88837.png)
 
+## Subtask 4: Dodanie nowego pliku
+![image](https://user-images.githubusercontent.com/116113886/231265784-bddfe2ca-4565-49c1-b594-8d32a4c285a2.png)
+
+## Subtask 5: Dodanie nowego pliku - add a match form
+![image](https://user-images.githubusercontent.com/116113886/231282175-fd2733a0-9ae0-4a85-a3d5-9f2d8bc4fcd1.png)
+
+
+
