@@ -16,32 +16,33 @@ wynik: 8 poprawnych na 14 :disappointed:
 ![image](https://user-images.githubusercontent.com/116113886/230984521-b41735f7-866e-4de8-b45a-60f1e5cbe24a.png)
 ![image](https://user-images.githubusercontent.com/116113886/230984667-4071d291-e79f-48e8-a54d-a6f56d722e42.png)
 ## Subtask 2: Wyszukiwanie selektorów na stronie logowania
-**Scouts_Panel_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+
+**Scouts_Panel_xpath**
 - //*[@id="__next"]/form/div/div[1]/h5
 - //h5
 - //*[text()='Scouts Panel']
 
-**Login_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Login_field_xpath**
 - //*[@id="__next"]/form/div/div[1]/div[1]
 - //*[@id="login-label"] 
 - //*[contains(@id,"login")]
 
-**Password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Password_field_xpath**
 - //*[@id="__next"]/form/div/div[1]/div[2]
 - //input[@name="password"]
 - //div[@class="MuiFormControl-root MuiTextField-root jss56 MuiFormControl-marginNormal" and position()=2]
 
-**Remind_password_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Remind_password_button_xpath**
 - //*[@id="__next"]/form/div/div[1]/a
 - //*[contains(@class, "MuiLink")] 
 - //child::div/a
 
-**Language_button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Language_button_xpath**
 - //div[@role="button"]
 - //*[text()="English"]
 - //input[@value="en" or @value="pl"]
 
-**Sign_in_button_[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en/login?redirected=true)_xpath**
+**Sign_in_button_xpath**
 - //child::div/button
 - //*[contains(@class,"MuiButton")]
 - /html/body/div/form/div/div[2]/button
