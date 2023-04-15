@@ -8,7 +8,7 @@ class LoginPage(BasePage):
     remind_password_button_xpath = "//*[text()='Remind password']"
     english_button_xpath = "//*[text()='English']"
     polski_button_xpath = "//*[text()='Polski']"
-    scouts_panel_xpath = "/html/body/div/form/div/div[1]/h5"
+    scouts_panel_xpath = "//div/form/div/div[1]/h5"
 
 
     def type_in_email(self, email):
