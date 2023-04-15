@@ -23,14 +23,14 @@ wynik: 8 poprawnych na 14 :disappointed:
 - //*[text()='Scouts Panel']
 
 **Login_field_xpath**
-- //*[@id="__next"]/form/div/div[1]/div[1]
-- //*[@id="login-label"] 
-- //*[contains(@id,"login")]
+- //*[@id="login"]
+- //input[@id="login"] 
+- //input[contains(@name,"login")]
 
 **Password_field_xpath**
-- //*[@id="__next"]/form/div/div[1]/div[2]
+- //*[@id="password"]
 - //input[@name="password"]
-- //div[@class="MuiFormControl-root MuiTextField-root jss56 MuiFormControl-marginNormal" and position()=2]
+- //*[contains(@type,"password")]
 
 **Remind_password_button_xpath**
 - //*[@id="__next"]/form/div/div[1]/a
@@ -39,7 +39,7 @@ wynik: 8 poprawnych na 14 :disappointed:
 
 **Language_button_xpath**
 - //div[@role="button"]
-- //*[text()="English"]
+- //*[text()="en"]
 - //input[@value="en" or @value="pl"]
 
 **Sign_in_button_xpath**
