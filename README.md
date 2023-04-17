@@ -57,5 +57,8 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 5: Dodanie nowego pliku - add a match form
 ![image](https://user-images.githubusercontent.com/116113886/232256531-c8257b8c-543d-4fd7-b8b5-8add9fb16eac.png)
 
+# Task 3: Pierwszy test i assert
+## Subtask 1: Uzupełnienie strony logowania
+![image](https://user-images.githubusercontent.com/116113886/232617262-54e33099-4a94-4925-b65e-4b8b19544666.png)
 
 
