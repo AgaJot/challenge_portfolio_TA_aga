@@ -70,6 +70,7 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 4: Powtórzenie tego, co już wiemy
 Niestety nie udało mi się rozwiązać zadania pomyślnie w wyznaczonym czasie. Wklejam kolejną wersję próbną. Nie poddaję się, będę jeszcze próbować!
 
-![image](https://user-images.githubusercontent.com/116113886/232911745-7aa4ff77-6e23-4791-8c3e-0d9b17b0e873.png)
+![image](https://user-images.githubusercontent.com/116113886/232912484-69bc0acf-9111-4b6d-8fd2-21ed1d75bb62.png)
+
 
 
