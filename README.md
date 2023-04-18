@@ -65,6 +65,8 @@ wynik: 8 poprawnych na 14 :disappointed:
 ![image](https://user-images.githubusercontent.com/116113886/232806490-be19739c-2239-47e6-ab01-179d3b46ba92.png)
 
 ## Subtask 3: Assert
+![image](https://user-images.githubusercontent.com/116113886/232853389-cd2b1a12-966d-4b34-a23e-792cf76aed76.png)
 
+## Subtask 4: Powtórzenie tego, co już wiemy
 
 
