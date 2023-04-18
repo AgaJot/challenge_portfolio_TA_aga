@@ -68,7 +68,8 @@ wynik: 8 poprawnych na 14 :disappointed:
 ![image](https://user-images.githubusercontent.com/116113886/232853389-cd2b1a12-966d-4b34-a23e-792cf76aed76.png)
 
 ## Subtask 4: Powtórzenie tego, co już wiemy
-Niestety nie udało mi się rozwiązać zadania pomyślnie na czas. Wklejam kolejną wersję próbną. Będę jeszcze próbować!
+Niestety nie udało mi się rozwiązać zadania pomyślnie w wyznaczonym czasie. Wklejam kolejną wersję próbną. Nie poddaję się, będę jeszcze próbować!
+
 ![image](https://user-images.githubusercontent.com/116113886/232911745-7aa4ff77-6e23-4791-8c3e-0d9b17b0e873.png)
 
 
