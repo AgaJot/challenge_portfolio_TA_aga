@@ -61,4 +61,10 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 1: Uzupełnienie strony logowania
 ![image](https://user-images.githubusercontent.com/116113886/232617262-54e33099-4a94-4925-b65e-4b8b19544666.png)
 
+## Subtask 2: Nowy przypadek testowy
+![image](https://user-images.githubusercontent.com/116113886/232806490-be19739c-2239-47e6-ab01-179d3b46ba92.png)
+
+## Subtask 3: Assert
+
+
 
