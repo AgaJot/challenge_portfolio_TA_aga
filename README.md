@@ -71,6 +71,9 @@ wynik: 8 poprawnych na 14 :disappointed:
 
 ![image](https://user-images.githubusercontent.com/116113886/233200939-5cdb73d4-a719-4925-bdb6-fe6f47f1367a.png)
 ![image](https://user-images.githubusercontent.com/116113886/233201230-244b3459-d6f6-4d86-be56-87cf4e8a5e50.png)
+![image](https://user-images.githubusercontent.com/116113886/233201911-936a25a3-b29e-482b-8048-ede78515a359.png)
+![image](https://user-images.githubusercontent.com/116113886/233202061-b0f47ad8-223c-4e72-a807-c2bd19a69144.png)
+
 
 
 
