@@ -68,9 +68,10 @@ wynik: 8 poprawnych na 14 :disappointed:
 ![image](https://user-images.githubusercontent.com/116113886/232853389-cd2b1a12-966d-4b34-a23e-792cf76aed76.png)
 
 ## Subtask 4: Powtórzenie tego, co już wiemy
-Niestety nie udało mi się rozwiązać zadania pomyślnie w wyznaczonym czasie. Wklejam kolejną wersję próbną. Nie poddaję się, będę jeszcze próbować!
 
-![image](https://user-images.githubusercontent.com/116113886/232912484-69bc0acf-9111-4b6d-8fd2-21ed1d75bb62.png)
+![image](https://user-images.githubusercontent.com/116113886/233200939-5cdb73d4-a719-4925-bdb6-fe6f47f1367a.png)
+![image](https://user-images.githubusercontent.com/116113886/233201230-244b3459-d6f6-4d86-be56-87cf4e8a5e50.png)
+
 
 
 
