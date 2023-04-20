@@ -57,5 +57,24 @@ wynik: 8 poprawnych na 14 :disappointed:
 ## Subtask 5: Dodanie nowego pliku - add a match form
 ![image](https://user-images.githubusercontent.com/116113886/232256531-c8257b8c-543d-4fd7-b8b5-8add9fb16eac.png)
 
+# Task 3: Pierwszy test i assert
+## Subtask 1: Uzupełnienie strony logowania
+![image](https://user-images.githubusercontent.com/116113886/232617262-54e33099-4a94-4925-b65e-4b8b19544666.png)
+
+## Subtask 2: Nowy przypadek testowy
+![image](https://user-images.githubusercontent.com/116113886/232806490-be19739c-2239-47e6-ab01-179d3b46ba92.png)
+
+## Subtask 3: Assert
+![image](https://user-images.githubusercontent.com/116113886/232853389-cd2b1a12-966d-4b34-a23e-792cf76aed76.png)
+
+## Subtask 4: Powtórzenie tego, co już wiemy
+
+![image](https://user-images.githubusercontent.com/116113886/233200939-5cdb73d4-a719-4925-bdb6-fe6f47f1367a.png)
+![image](https://user-images.githubusercontent.com/116113886/233201230-244b3459-d6f6-4d86-be56-87cf4e8a5e50.png)
+![image](https://user-images.githubusercontent.com/116113886/233201911-936a25a3-b29e-482b-8048-ede78515a359.png)
+![image](https://user-images.githubusercontent.com/116113886/233202061-b0f47ad8-223c-4e72-a807-c2bd19a69144.png)
+
+
+
 
 
