@@ -76,3 +76,6 @@ wynik: 8 poprawnych na 14 :disappointed:
 
 # Task 4: 
 https://docs.google.com/spreadsheets/d/1JIFI09yHd2AU-mvYC0z-iIu0UshwraNHI14LwyKICPM/edit#gid=114028924
+
+
+
