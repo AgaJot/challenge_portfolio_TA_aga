@@ -20,6 +20,7 @@ class TestAddaPlayerButton(unittest.TestCase):
         self.driver.get('https://scouts-test.futbolkolektyw.pl/en')
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
+        super(TestAddaPlayerButton, self).setUp(self)
 
     def test_click_in_to_the_add_player_form(self):
         dashboard_page = Dashboard(self.driver)
