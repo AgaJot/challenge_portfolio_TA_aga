@@ -34,9 +34,6 @@ class TestPlayerForm(unittest.TestCase):
         time.sleep(5)
         add_a_player_form_page.click_on_the_submit_button()
         time.sleep(10)
-        add_a_player_form_page = AddaPlayerPage(self.driver)
-        add_a_player_form_page.title_of_page()
-        time.sleep(10)
 
 
     @classmethod
