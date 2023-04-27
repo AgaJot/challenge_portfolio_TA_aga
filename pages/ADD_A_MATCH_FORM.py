@@ -1,7 +1,7 @@
 from pages.base_page import BasePage
 
 
-class Dashboard(BasePage):
+class AddaMatch(BasePage):
     my_team_field_xpath = "//input[@name='myTeam']"
     my_team_title_xpath = "//*[text()='My team']"
     required_information_xpath = "//*[text()='Required']"
