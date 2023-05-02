@@ -31,9 +31,9 @@ class TestPlayerForm(unittest.TestCase):
         add_a_player_form_page.type_in_main_position('goalkeeper')
         add_a_player_form_page.click_on_the_add_link_to_youtube_button()
         add_a_player_form_page.type_in_youtube('https: // www.youtube.com / watch?v = MI_gFi_Zd8c')
-        time.sleep(5)
         add_a_player_form_page.click_on_the_submit_button()
-        time.sleep(10)
+        dashboard_page = Dashboard(self.driver)
+        dashboard_page.find_last_created_player()
 
 
     @classmethod

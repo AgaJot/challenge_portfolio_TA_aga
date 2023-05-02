@@ -28,7 +28,6 @@ class TestAddaPlayerButton(unittest.TestCase):
         dashboard_page.click_on_the_add_player_button()
         add_a_player_form_page = AddaPlayerPage(self.driver)
         add_a_player_form_page.title_of_page()
-        time.sleep(5)
 
 
     @classmethod

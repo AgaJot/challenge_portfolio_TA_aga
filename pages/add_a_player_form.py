@@ -15,8 +15,7 @@ class AddaPlayerPage(BasePage):
     submit_button_xpath = "//*[text()='Submit']"
     add_link_to_youtube_button_xpath = "//*[text()='Add link to Youtube']"
     youtube_field_xpath = "//input[@name='webYT[0]']"
-    saved_player_alert_xpath = "//*[text()='Saved player.']"
-    wait = WebDriverWait(driver, 15)
+    wait = WebDriverWait(driver, 5)
 
     def title_of_page(self):
         assert self.get_page_title(self.add_player_url) == self.expected_title
@@ -41,7 +40,4 @@ class AddaPlayerPage(BasePage):
 
     def type_in_youtube(self, youtube):
         self.field_send_keys(self.youtube_field_xpath, youtube)
-
-    def wait_for_alert(self):
-        self.wait_for_visibility_of_element_located(self.saved_player_alert_xpath)
 

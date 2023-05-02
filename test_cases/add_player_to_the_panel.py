@@ -29,12 +29,9 @@ class TestPlayerForm(unittest.TestCase):
         add_a_player_form_page.type_in_surname('Kowalski')
         add_a_player_form_page.type_in_age('01101999')
         add_a_player_form_page.type_in_main_position('goalkeeper')
-        time.sleep(5)
         add_a_player_form_page.click_on_the_submit_button()
-        add_a_player_form_page = AddaPlayerPage(self.driver)
-        add_a_player_form_page.title_of_page()
-        time.sleep(5)
-
+        dashboard_page = Dashboard(self.driver)
+        dashboard_page.find_last_created_player()
 
     @classmethod
     def tearDown(self):

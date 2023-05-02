@@ -25,7 +25,6 @@ class TestLoginPage(unittest.TestCase):
         user_login.click_on_the_remind_password_hyperlink()
         password_reminder_page = PasswordReminderPage(self.driver)
         password_reminder_page.title_of_page()
-        time.sleep(5)
 
     @classmethod
     def tearDown(self):

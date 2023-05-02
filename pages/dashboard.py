@@ -18,6 +18,8 @@ class Dashboard(BasePage):
     dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
     add_player_button_xpath = "//*[text()='Add player']"
     futbol_kolektyw_logo_xpath = "//*[@title='Logo Scouts Panel']"
+    last_created_player_xpath = "//*[text()='Piotr Kowalski']"
+    expected_player = "Piotr Kowalski"
 
     def title_of_page(self):
         self.wait_for_element_to_be_clickable(self.futbol_kolektyw_logo_xpath)
@@ -25,3 +27,7 @@ class Dashboard(BasePage):
 
     def click_on_the_add_player_button(self):
         self.click_on_the_element(self.add_player_button_xpath)
+
+    def find_last_created_player(self):
+        self.find_element(self.last_created_player_xpath).text
+        assert self.find_element(self.last_created_player_xpath).text == self.expected_player
