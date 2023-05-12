@@ -7,7 +7,7 @@ Hej! Mam na imię Aga i zdecydowałam się na udział w challenge'u z kilku powo
 - myślę nieśmiało o przebranżowieniu, stąd decyzja o challenge'owym treningu
 - poza tym lubię uczyć się nowych rzeczy
 ## Subtask 3
-komentarz: Summary mam pod innymi nazwami, bo zmiany do zdalnego repozytorium wysłałam, robiąc pierwsze zadanie. Dopiero później przeczytałam treść 3. zadania i właściwą instrukcję. Mam nadzieję, że nie namieszałam i w rezultacie niczego nie popsułam.
+komentarz: Summary mam pod innymi nazwami, bo zmiany do zdalnego repozytorium wysłałam, robiąc pierwsze zadanie. Dopiero później przeczytałam treść 3. zadania i właściwą instrukcję.
 ## Subtask 4
 wynik: 8 poprawnych na 14 :disappointed:
 
@@ -77,5 +77,9 @@ wynik: 8 poprawnych na 14 :disappointed:
 # Task 4: 
 https://docs.google.com/spreadsheets/d/1JIFI09yHd2AU-mvYC0z-iIu0UshwraNHI14LwyKICPM/edit#gid=114028924
 
+# Task 6: 
+https://drive.google.com/drive/folders/1z1aZIO9vKAE_Ez6i0xgiWUe7BU0ZGokb
+
+komentarz: przy testach w środowisku produkcyjnym asercje w testach zagnieżdżonych zostały zakomentowane i nie miały wpływu na przebieg i wynik testów
 
 

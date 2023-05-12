@@ -2,7 +2,7 @@ from pages.base_page import BasePage
 
 
 class PasswordReminderPage(BasePage):
-    add_player_url = 'https://scouts-test.futbolkolektyw.pl/en/remind'
+    add_player_url = 'https://scouts.futbolkolektyw.pl/en/remind'
     expected_title = "Remind password"
     email_field_xpath = "//input[@name='email']"
 

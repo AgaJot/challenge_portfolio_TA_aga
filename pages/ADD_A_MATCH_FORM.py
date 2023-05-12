@@ -12,5 +12,3 @@ class AddaMatch(BasePage):
     matches_button_xpath = "//*[text()='Matches']"
     time_played_field_xpath = "//input[@name='timePlayed']"
     number_field_xpath = "//input[@name='number']"
-
-pass

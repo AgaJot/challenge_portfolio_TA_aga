@@ -15,7 +15,7 @@ class Dashboard(BasePage):
     ilość_raportów_xpath = "//*[text()='Ilość raportów']"
     wróć_do_raportu_buttons_xpath = "//*[text()='Wróć do raportu']"
     expected_title = "Scouts panel"
-    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
+    dashboard_url = 'https://scouts.futbolkolektyw.pl/en/'
     add_player_button_xpath = "//*[text()='Add player']"
     futbol_kolektyw_logo_xpath = "//*[@title='Logo Scouts Panel']"
     last_created_player_xpath = "//*[text()='Piotr Kowalski']"
@@ -26,6 +26,7 @@ class Dashboard(BasePage):
         assert self.get_page_title(self.dashboard_url) == self.expected_title
 
     def click_on_the_add_player_button(self):
+        self.wait_for_element_to_be_clickable(self.add_player_button_xpath)
         self.click_on_the_element(self.add_player_button_xpath)
 
     def find_last_created_player(self):
