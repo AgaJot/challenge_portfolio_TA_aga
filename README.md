@@ -80,6 +80,8 @@ https://docs.google.com/spreadsheets/d/1JIFI09yHd2AU-mvYC0z-iIu0UshwraNHI14LwyKI
 # Task 6: 
 https://drive.google.com/drive/folders/1z1aZIO9vKAE_Ez6i0xgiWUe7BU0ZGokb
 
+[Robot Framework](https://github.com/AgaJot/panelscout_robotframework)
+
 komentarz: przy testach w środowisku produkcyjnym asercje w testach zagnieżdżonych zostały zakomentowane i nie miały wpływu na przebieg i wynik testów
 
 
